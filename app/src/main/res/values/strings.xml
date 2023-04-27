@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyBookArchive</string>
+    <string name="add_book">ADD BOOK</string>
 </resources>
